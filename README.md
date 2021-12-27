@@ -1,5 +1,5 @@
 # Style Transfer in PyTorch
-Neural Style Transfer challenge by Fellowship.ai
+Solution for Neural Style Transfer challenge by Fellowship.ai
 
 ### Changes made -
 1. Loaded the image using Image class from PIL and converted into a tensor using transforms function from torchvision package.
