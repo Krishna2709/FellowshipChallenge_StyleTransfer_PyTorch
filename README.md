@@ -16,4 +16,4 @@ Solution for Neural Style Transfer challenge by Fellowship.ai
 ### Content Image
 ![Alt](https://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/Style%20Image.png)
 ### Styled Output
-![Alt](https://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/Styled%20Output.png)
+![Alt](https://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/lion-styled-with-26.jpg)
