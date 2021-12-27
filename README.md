@@ -12,8 +12,8 @@ Solution for Neural Style Transfer challenge by Fellowship.ai
     - Added loss.backward() to compute the gradients.
 
 ### Style Image
-![Alt](https://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/Content%20Image.png)
-### Content Image
 ![Alt](https://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/Style%20Image.png)
+### Content Image
+![Alt](https://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/Content%20Image.png)
 ### Styled Output
 ![Alt](https://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/lion-styled-with-26.jpg)
