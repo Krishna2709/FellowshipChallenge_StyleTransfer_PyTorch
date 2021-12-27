@@ -12,8 +12,8 @@ Neural Style Transfer challenge by Fellowship.ai
     - Added loss.backward() to compute the gradients.
 
 ### Style Image
-![Alt](Images/Style Image.png)
+![Alt](https://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/Content%20Image.png)
 ### Content Image
-![Alt](Images/Content Image.png)
+![Alt](https://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/Style%20Image.png)
 ### Styled Output
-![Alt](Images/Styled Output.png)
+![Alt](Ihttps://github.com/Krishna2709/FellowshipChallenge_StyleTransfer_PyTorch/blob/master/Images/Styled%20Output.png)
